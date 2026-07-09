@@ -722,20 +722,20 @@
     },
     {
         "code": "12102",
-        "name": "Pursued",
-        "text": "<b>Revelation</b> - Put Pursued into play in your threat area.\n<b>Forced</b> - After an enemy enters <i>(moves into or spawns at)</i> your location: Take 1 horror.\n[action][action]: Discard Pursued.",
-        "traits": "Terror."
+        "name": "Ścigany",
+        "text": "<b>Odkrycie</b> – Umieść Ściganego w grze, w twoim obszarze zagrożenia.\n<b>Wymuszony</b> – Po tym, jak wróg wejdzie <i>(w wyniku ruchu lub rozstawienia)</i> do twojej lokalizacji: otrzymujesz 1 punkt przerażenia.\n[action] [action]: Odrzuć Ściganego.",
+        "traits": "Koszmar."
     },
     {
         "code": "12103",
-        "name": "Syndicate Obligations",
-        "text": "<b>Revelation</b> - Put Syndicate Obligations into play in your threat area.\n<b>Forced</b> - After you spend 1 or more resources: Take 1 damage.\n[action][action]: Discard Syndicate Obligations.",
-        "traits": "Pact. Syndicate."
+        "name": "Zobowiązania Syndykatu",
+        "text": "<b>Odkrycie</b> – Umieść Zobowiązania Syndykatu w grze, w twoim obszarze zagrożenia.\n<b>Wymuszony</b> – Po tym, jak wydasz 1 lub więcej zasobów: otrzymujesz 1 obrażenie.\n[action] [action]: Odrzuć Zobowiązania Syndykatu.",
+        "traits": "Pakt. Syndykat."
     },
     {
         "code": "12104",
-        "name": "Wounded",
-        "text": "<b>Revelation</b> - Put Wounded into play in your threat area.\n<b>Forced</b> - The first time you move each turn: Take 1 damage.\n[action][action]: Discard Wounded.",
-        "traits": "Injury."
+        "name": "Uraz",
+        "text": "<b>Odkrycie</b> – Umieść Uraz w grze, w twoim obszarze zagrożenia.\n<b>Wymuszony</b> – Za pierwszym razem w każdej turze, kiedy się poruszysz: otrzymujesz 1 obrażenie.\n[action] [action]: Odrzuć Uraz.",
+        "traits": "Uraz."
     }
 ]
